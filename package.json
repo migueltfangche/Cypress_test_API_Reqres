@@ -1,0 +1,16 @@
+{
+  "name": "practica-test-cypress-api-reqres",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "run_test": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.16.1"
+  }
+}
